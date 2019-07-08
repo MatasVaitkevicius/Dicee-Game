@@ -1,0 +1,4 @@
+#Mon Jul 08 14:49:04 EEST 2019
+base.0=D\:\\AndroidStudioProjects\\dicee-flutter\\dicee-flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
